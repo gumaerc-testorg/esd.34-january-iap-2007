@@ -4,8 +4,13 @@ description: Lecture slides about creativity, nature, design rules and combinato
   work of Vance and de Bono. TRIZ theory, value engineering and the semantic web tool,
   radiant thinking, mind mapping tool, and technological change, from its creation
   to economic growth and societal welfare
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-34-system-architecture-january-iap-2007/60ee25fc760c67f2e8a05d57809ad073_creativity_wkshp.pdf
+file: /media/courses/esd-34-system-architecture-january-iap-2007/60ee25fc760c67f2e8a05d57809ad073_creativity_wkshp.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: creativity_wkshp.pdf
 uid: 60ee25fc-760c-67f2-e8a0-5d57809ad073
