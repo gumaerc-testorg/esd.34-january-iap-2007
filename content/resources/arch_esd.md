@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e783e658-98d8-e3eb-06bd-bbb9c5a52800
 resourcetype: Document
 title: arch_esd.pdf
 uid: f7480959-c0f1-ada1-e0a8-04400eb682e8

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 819b35ac-f493-d612-c932-1cf7b041725b
 resourcetype: Other
 title: spreadsheets.zip
 uid: 1c4021fb-1a2d-952c-f9a1-2b696eb6ce20

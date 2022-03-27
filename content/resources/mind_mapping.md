@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: dbd8c75c-0434-ff4f-f2b1-41495fe6f5fd
 resourcetype: Document
 title: mind_mapping.pdf
 uid: de4f1188-5480-b6dc-8e82-ff0842d4b8d5

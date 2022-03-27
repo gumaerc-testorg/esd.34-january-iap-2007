@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 819b35ac-f493-d612-c932-1cf7b041725b
 resourcetype: Document
 title: os4_matrix_med.pdf
 uid: ede6d9ca-2867-0ae0-b844-1ae34acf6e15

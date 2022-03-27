@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 819b35ac-f493-d612-c932-1cf7b041725b
 resourcetype: Document
 title: os2_matrix_simpl.pdf
 uid: bc3b0bc4-8fcf-72e7-03d1-6b5a55e169e1
