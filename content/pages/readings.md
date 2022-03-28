@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
+parent_uid: null
 title: Readings
 uid: e783e658-98d8-e3eb-06bd-bbb9c5a52800
 ---
@@ -250,7 +251,7 @@ Mind Tools. "[DO IT - A Simple Creativity Process](http://www.mindtools.com/page
 {{< anchor "Additional_References" >}}{{< /anchor >}}Additional References
 --------------------------------------------------------------------------
 
-ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ([PDF]({{< baseurl >}}/resources/arch_esd))
+ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ({{< resource_link f7480959-c0f1-ada1-e0a8-04400eb682e8 "PDF" >}})
 
 Shishko, R. _NASA Systems Engineering Handbook_. NASA SP-6105. Darby, PA: Diane Pub Co, June 1995. ISBN: 9780788132957.
 

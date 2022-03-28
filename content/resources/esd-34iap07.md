@@ -13,6 +13,7 @@ image_metadata:
   image-alt: Diagram of a skateboard and photo of the space shuttle.
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: esd-34iap07.jpg
 uid: 76ca7f7a-b12a-87ba-fb4f-5b3fa92b74e7

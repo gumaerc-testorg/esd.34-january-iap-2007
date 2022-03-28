@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 819b35ac-f493-d612-c932-1cf7b041725b
 ---
@@ -24,7 +25,7 @@ SUPPORTING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-OS 1 ([PDF]({{< baseurl >}}/resources/os1))
+OS 1 ({{< resource_link 3d7c5025-b32a-62b1-1b0e-4981d5aa75cf "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -33,10 +34,10 @@ OS 1 ([PDF]({{< baseurl >}}/resources/os1))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-OS 2 ([PDF]({{< baseurl >}}/resources/os2))
+OS 2 ({{< resource_link 32930e0e-cba7-ab19-5d59-0643437619ae "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix of simple systems ([PDF]({{< baseurl >}}/resources/os2_matrix_simpl))
+Matrix of simple systems ({{< resource_link bc3b0bc4-8fcf-72e7-03d1-6b5a55e169e1 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +45,7 @@ Matrix of simple systems ([PDF]({{< baseurl >}}/resources/os2_matrix_simpl))
 {{< tdopen >}}
 
 
-OS 3 ([PDF]({{< baseurl >}}/resources/os3))
+OS 3 ({{< resource_link 8937258c-c2aa-e3d2-2ff3-66e887304cc7 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -55,18 +56,18 @@ OS 3 ([PDF]({{< baseurl >}}/resources/os3))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-OS 4 ([PDF]({{< baseurl >}}/resources/os4))
+OS 4 ({{< resource_link f9064155-12ca-96b1-2c14-32748d69be74 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Matrix of medium systems ([PDF]({{< baseurl >}}/resources/os4_matrix_med))
+Matrix of medium systems ({{< resource_link ede6d9ca-2867-0ae0-b844-1ae34acf6e15 "PDF" >}})
 
 U.S.A. soaring team background on sailplanes and gliders ([PDF](http://www.ussoaringteam.org/adobe%20pdf/pr%20pdf/BR%20Sailplanes%20V3%2004.pdf))
 
-Student records pseudo code ([PDF]({{< baseurl >}}/resources/pscode_student_rec)) (Courtesy of Giorgio Ingargiola and Dhiman Bhattacharjee. Used with permission.)
+Student records pseudo code ({{< resource_link 71ff55e7-f110-a31c-4e4f-bcadcbcf14cf "PDF" >}}) (Courtesy of Giorgio Ingargiola and Dhiman Bhattacharjee. Used with permission.)
 
-Five architecture model spreadsheets ([ZIP]({{< baseurl >}}/resources/spreadsheets)) (The zip file contains: court\_arch.xls, glider\_arch.xls, refrig\_arch\_stud1.xls, sailboat\_arch.xls, and skateboard\_arch.xls.)
+Five architecture model spreadsheets ({{< resource_link 1c4021fb-1a2d-952c-f9a1-2b696eb6ce20 "ZIP" >}}) (The zip file contains: court\_arch.xls, glider\_arch.xls, refrig\_arch\_stud1.xls, sailboat\_arch.xls, and skateboard\_arch.xls.)
 
 
 {{< tdclose >}}
@@ -74,7 +75,7 @@ Five architecture model spreadsheets ([ZIP]({{< baseurl >}}/resources/spreadshee
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-OS 5 ([PDF]({{< baseurl >}}/resources/os5))
+OS 5 ({{< resource_link 00870e27-a619-1118-c0a2-db765357475f "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  

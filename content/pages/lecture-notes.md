@@ -3,11 +3,12 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: dbd8c75c-0434-ff4f-f2b1-41495fe6f5fd
 ---
 
-Glossary Table - a mapping between key terms and the lectures where they are introduced and defined ([PDF]({{< baseurl >}}/resources/glossary))
+Glossary Table - a mapping between key terms and the lectures where they are introduced and defined ({{< resource_link c4bd0c02-92cc-d3e7-059b-b734682d4e87 "PDF" >}})
 
 The workshop files are courtesy of Thomas H. Speller, Jr. and are used with permission.
 
@@ -55,7 +56,7 @@ Architecture, form
 House, bridge, camera, instruction, SW, amp, whistle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.9 MB]({{< baseurl >}}/resources/lec1))
+({{< resource_link f84075a5-ba04-0148-9e81-cd0e9659826d "PDF - 2.9 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,9 +79,9 @@ Whistle, SW Op amp
 {{< tdopen >}}
 
 
-([PDF - 1.4 MB]({{< baseurl >}}/resources/lec2))
+({{< resource_link 119970d5-c894-4785-abb7-d2da18bd72d9 "PDF - 1.4 MB" >}})
 
-Tutorial on object process modeling ([PDF]({{< baseurl >}}/resources/lec2_opm))
+Tutorial on object process modeling ({{< resource_link 997dd6ff-90ce-2edc-f9a4-51d6aabe5585 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -111,11 +112,11 @@ Instructor: Thomas H. Speller, Jr. (Class TA)
 {{< tdopen >}}
 
 
-Workshop slides ([PDF - 1.2 MB]({{< baseurl >}}/resources/creativity_wkshp))
+Workshop slides ({{< resource_link 60ee25fc-760c-67f2-e8a0-5d57809ad073 "PDF - 1.2 MB" >}})
 
-Scenarios as a creative process ([PDF]({{< baseurl >}}/resources/scenarios))
+Scenarios as a creative process ({{< resource_link 0ee4b57f-f758-f54f-bf8b-d701834d412d "PDF" >}})
 
-Mind mapping ([PDF]({{< baseurl >}}/resources/mind_mapping))
+Mind mapping ({{< resource_link de4f1188-5480-b6dc-8e82-ff0842d4b8d5 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -138,7 +139,7 @@ Architecture, concept
 Whistle, SW, skateboard, services, network, refrigerator
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lec3))
+({{< resource_link 75246629-68d5-8786-033d-33d0430ec298 "PDF - 1.2 MB" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +160,7 @@ Timing, operator, cost
 Skateboard, services, network, refrigerator
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec4))
+({{< resource_link d1d77ced-d935-a086-bfb0-6c46b69c799f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +181,7 @@ Needs, goals
 Skateboard, services, network, refrigerator
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec5))
+({{< resource_link 34d72b9e-c5c7-5831-4aaf-02c2a1d06b7f "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +202,7 @@ Value, style, platforms
 SDM
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec6))
+({{< resource_link f568e654-5591-36f2-935e-ec18cd3b0572 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
