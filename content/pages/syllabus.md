@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides information about system architecture, learning
+  objectives, strategy and structure, books, grading, grading policy, dissemination
+  policy, policy on academic integrity, and a calendar of lecture and workshop sessions.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 56e6f201-705b-8e20-113a-304c3d50f128
 ---
@@ -15,7 +17,7 @@ Lectures: 7 sessions over 5 weeks, 2.5 hours / session
 About System Architecture
 -------------------------
 
-Definitions, the Architect and Architecting, and Deliverables of the Architect ({{< resource_link 867c3f50-3dd4-fe6f-5ad1-6db3b6506283 "PDF" >}})
+Definitions, the Architect and Architecting, and Deliverables of the Architect ({{% resource_link 867c3f50-3dd4-fe6f-5ad1-6db3b6506283 "PDF" %}})
 
 Learning Objectives
 -------------------
@@ -91,7 +93,7 @@ Rechtin, E., and M. W. Maier. _The Art of Systems Architecting_. Boca Raton, FL:
 
 Ulrich, K. T., and S. D. Eppinger. _Product Design and Development_. 2nd ed. New York, NY: McGraw-Hill Inc, 2000. ISBN: 9780072296471.
 
-Additional references are given on the {{< resource_link e783e658-98d8-e3eb-06bd-bbb9c5a52800 "readings" >}} page.
+Additional references are given on the {{% resource_link e783e658-98d8-e3eb-06bd-bbb9c5a52800 "readings" %}} page.
 
 Grading
 -------

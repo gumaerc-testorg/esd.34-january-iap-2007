@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required textbooks, assigned
+  readings, creativity workshop readings, and additional references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: e783e658-98d8-e3eb-06bd-bbb9c5a52800
 ---
@@ -236,9 +237,9 @@ Vance, M., and D. Deacon. _Think Out of the Box_. Franklin Lakes, NJ: Career Pre
 
 Akin, O., and C. Akin. "[On the Process of Creativity in Puzzles, Inventions, and Designs](http://dx.doi.org/10.1016/S0926-5805(97)00057-5)." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
 
-Verbitsky, M. "Semantic TRIZ." ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF - 2.3 MB](https://pdfs.semanticscholar.org/a3fe/e18cae12fb8a57a966442fbf40e387d0fc98.pdf?_ga=2.9647862.237155237.1566834416-159250059.1566239404))
+Verbitsky, M. "Semantic TRIZ." ([PDF - 2.3 MB](https://pdfs.semanticscholar.org/a3fe/e18cae12fb8a57a966442fbf40e387d0fc98.pdf?_ga=2.9647862.237155237.1566834416-159250059.1566239404))
 
-Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.aitriz.org/articles/TRIZFeatures/30383039-4D6973687261.pdf))
+Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ([PDF](http://www.aitriz.org/articles/TRIZFeatures/30383039-4D6973687261.pdf))
 
 ### Websites
 
@@ -251,7 +252,7 @@ Mind Tools. "[DO IT - A Simple Creativity Process](http://www.mindtools.com/page
 {{< anchor "Additional_References" >}}{{< /anchor >}}Additional References
 --------------------------------------------------------------------------
 
-ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ({{< resource_link f7480959-c0f1-ada1-e0a8-04400eb682e8 "PDF" >}})
+ESD Architecture Committee, D. L. Whitney - chair. "The Influence of Architecture in Engineering Systems." MIT Engineering Systems Monograph, March 31, 2004. ({{% resource_link f7480959-c0f1-ada1-e0a8-04400eb682e8 "PDF" %}})
 
 Shishko, R. _NASA Systems Engineering Handbook_. NASA SP-6105. Darby, PA: Diane Pub Co, June 1995. ISBN: 9780788132957.
 
