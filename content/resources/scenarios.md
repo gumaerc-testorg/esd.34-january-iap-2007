@@ -5,6 +5,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/0ee4b57ff758f54fbf8bd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: scenarios.pdf
 uid: 0ee4b57f-f758-f54f-bf8b-d701834d412d
 ---
 Lecture notes about scenarios as a creative process.
-

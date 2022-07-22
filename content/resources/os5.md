@@ -5,6 +5,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/00870e27a6191118c0a2d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: os5.pdf
 uid: 00870e27-a619-1118-c0a2-db765357475f
 ---
 Homework assignment.
-

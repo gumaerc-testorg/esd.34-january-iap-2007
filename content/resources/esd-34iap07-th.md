@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of a skateboard and photo of the space shuttle.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-34iap07-th.jpg
 uid: c48c037d-cc52-07e5-d3c0-a1c062d43fe5
 ---
 New image Upload
-

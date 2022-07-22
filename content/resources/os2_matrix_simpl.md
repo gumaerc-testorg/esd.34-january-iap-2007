@@ -6,6 +6,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/bc3b0bc48fcf72e703d16
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: os2_matrix_simpl.pdf
 uid: bc3b0bc4-8fcf-72e7-03d1-6b5a55e169e1
 ---
 This resource contains a matrix of simple systems as a supplement to a homework assignment.
-

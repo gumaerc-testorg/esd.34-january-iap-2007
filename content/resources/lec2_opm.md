@@ -5,6 +5,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/997dd6ff90ce2edcf9a45
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec2_opm.pdf
 uid: 997dd6ff-90ce-2edc-f9a4-51d6aabe5585
 ---
 This resource contains a tutorial on object process modeling.
-

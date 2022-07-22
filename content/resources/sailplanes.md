@@ -5,6 +5,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/d6eeaee2da9e69b093ecc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

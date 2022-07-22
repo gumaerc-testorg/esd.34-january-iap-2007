@@ -6,6 +6,7 @@ file: /courses/esd-34-system-architecture-january-iap-2007/119970d5c8944785abb7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: 119970d5-c894-4785-abb7-d2da18bd72d9
 ---
 Lecture slides about definition closure, reflections, form, function, and reference PDP.
-

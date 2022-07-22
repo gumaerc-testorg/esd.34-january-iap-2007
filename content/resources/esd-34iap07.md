@@ -12,10 +12,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of a skateboard and photo of the space shuttle.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-34iap07.jpg
 uid: 76ca7f7a-b12a-87ba-fb4f-5b3fa92b74e7
 ---
 The concepts and practice of system architecture are relevant to the design of both simple products, like a skateboard, and highly complex systems, like the Space Shuttle. (Skateboard by MIT OCW. Space Shuttle photo courtesy of NASA.)
-
