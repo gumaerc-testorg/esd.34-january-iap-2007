@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes about scenarios as a creative process.
 file: /courses/esd-34-system-architecture-january-iap-2007/0ee4b57ff758f54fbf8bd701834d412d_scenarios.pdf
+file_size: 123695
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

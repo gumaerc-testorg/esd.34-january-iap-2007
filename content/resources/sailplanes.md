@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-34-system-architecture-january-iap-2007/d6eeaee2da9e69b093eccf138c0f92c9_sailplanes.pdf
+file_size: 446195
 file_type: application/pdf
 learning_resource_types:
 - Assignments

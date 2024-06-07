@@ -3,6 +3,7 @@ content_type: resource
 description: Student records pseudo code, Sorting and Merging Sequences of Student
   Records, courtesy of Giorgio Ingargiola and Dhiman Bhattacharjee. Used with permission.
 file: /courses/esd-34-system-architecture-january-iap-2007/71ff55e7f110a31c4e4fbcadcbcf14cf_pscode_student_rec.pdf
+file_size: 21911
 file_type: application/pdf
 learning_resource_types:
 - Assignments
