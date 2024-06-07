@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment.
 file: /courses/esd-34-system-architecture-january-iap-2007/f906415512ca96b12c1432748d69be74_os4.pdf
+file_size: 59517
 file_type: application/pdf
 learning_resource_types:
 - Assignments

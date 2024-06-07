@@ -4,6 +4,7 @@ description: Lecture slides about reflection on operations, interfaces, alternat
   representations of process-object architecture, upstream influences, beneficiaries,
   and needs and goals.
 file: /courses/esd-34-system-architecture-january-iap-2007/34d72b9ec5c758314aaf02c2a1d06b7f_lec5.pdf
+file_size: 487087
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
