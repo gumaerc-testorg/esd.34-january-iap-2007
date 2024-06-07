@@ -4,6 +4,7 @@ description: The concepts and practice of system architecture are relevant to th
   design of both simple products, like a skateboard, and highly complex systems, like
   the Space Shuttle. (Skateboard by MIT OCW. Space Shuttle photo courtesy of NASA.)
 file: /courses/esd-34-system-architecture-january-iap-2007/76ca7f7ab12a87bafb4f5b3fa92b74e7_esd-34iap07.jpg
+file_size: 71533
 file_type: image/jpeg
 image_metadata:
   caption: The concepts and practice of system architecture are relevant to the design

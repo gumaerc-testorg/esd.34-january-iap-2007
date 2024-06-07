@@ -4,6 +4,7 @@ description: Lecture slides about reflections on architecture of medium systems,
   complexity, downstream processes, operations, operator, design, implementation,
   and sequence and timing.
 file: /courses/esd-34-system-architecture-january-iap-2007/d1d77cedd935a086bfb06c46b69c799f_lec4.pdf
+file_size: 776082
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -5,6 +5,7 @@ description: Lecture slides about reflection on needs, goals for a medium system
   summary, the role of the architect, a summary of learning objectives, and the architecture
   of SDM.
 file: /courses/esd-34-system-architecture-january-iap-2007/f568e654559136f2935eec18cd3b0572_lec6.pdf
+file_size: 457569
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
