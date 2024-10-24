@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about triz.
-file: /courses/esd-34-system-architecture-january-iap-2007/5ac7834e631541ae97d1783412aed765_triz_ve.pdf
+file: /ol-ocw-studio-app/courses/esd-34-system-architecture-january-iap-2007/5ac7834e631541ae97d1783412aed765_triz_ve.pdf
 file_size: 1002635
 file_type: application/pdf
 learning_resource_types:
