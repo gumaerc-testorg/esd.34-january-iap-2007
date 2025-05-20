@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /ol-ocw-studio-app/courses/esd-34-system-architecture-january-iap-2007/00870e27a6191118c0a2db765357475f_os5.pdf
+file: /courses/esd-34-system-architecture-january-iap-2007/00870e27a6191118c0a2db765357475f_os5.pdf
 file_size: 67445
 file_type: application/pdf
 learning_resource_types:

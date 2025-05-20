@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture slides about reflection on function, concept, creativity, architecture,
   PDP Synthesis, and closure on definitions.
-file: /ol-ocw-studio-app/courses/esd-34-system-architecture-january-iap-2007/7524662968d58786033d33d0430ec298_lec3.pdf
+file: /courses/esd-34-system-architecture-january-iap-2007/7524662968d58786033d33d0430ec298_lec3.pdf
 file_size: 1228609
 file_type: application/pdf
 learning_resource_types:
