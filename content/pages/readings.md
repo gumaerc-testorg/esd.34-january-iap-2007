@@ -235,19 +235,19 @@ Vance, M., and D. Deacon. _Think Out of the Box_. Franklin Lakes, NJ: Career Pre
 
 ### Recommended Papers
 
-Akin, O., and C. Akin. "[On the Process of Creativity in Puzzles, Inventions, and Designs](http://dx.doi.org/10.1016/S0926-5805(97)00057-5)." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
+Akin, O., and C. Akin. "{{% resource_link "3b8d833c-cb08-4abb-9d98-f5a34c6f57c1" "On the Process of Creativity in Puzzles, Inventions, and Designs" %}}." _Automation in Construction_ 7, no. 2–3 (1998): 123–38.
 
-Verbitsky, M. "Semantic TRIZ." ([PDF - 2.3 MB](https://pdfs.semanticscholar.org/a3fe/e18cae12fb8a57a966442fbf40e387d0fc98.pdf?_ga=2.9647862.237155237.1566834416-159250059.1566239404))
+Verbitsky, M. "Semantic TRIZ." ({{% resource_link "6c4a7084-24ce-4f20-8f0d-afbc39aab868" "PDF - 2.3 MB" %}})
 
-Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ([PDF](http://www.aitriz.org/articles/TRIZFeatures/30383039-4D6973687261.pdf))
+Lerner, Leonid. "Genrich Altshuller: Father of TRIZ." ({{% resource_link "0997da0a-ef92-4a09-a46d-90cab2b133c9" "PDF" %}})
 
 ### Websites
 
-Altier, W. J. "[A Process for Creativity](http://www.winstonbrill.com/bril001/html/article_index/articles/1-50/article22_body.html)."
+Altier, W. J. "{{% resource_link "9a8db751-07b9-47f3-9a4f-fdd2d1745a32" "A Process for Creativity" %}}."
 
-Breneman, J. A. J. "[Exploring Women's Creativity](http://web.archive.org/web/20170813083913/http://www.womenfolk.com/creativity/)."
+Breneman, J. A. J. "{{% resource_link "bc07c715-4ecf-4a43-a019-d3c2d09ad3bf" "Exploring Women's Creativity" %}}."
 
-Mind Tools. "[DO IT - A Simple Creativity Process](http://www.mindtools.com/pages/article/newCT_09.htm)."
+Mind Tools. "{{% resource_link "24e2868c-f341-4433-b26a-e23f9e0d85ec" "DO IT - A Simple Creativity Process" %}}."
 
 {{< anchor "Additional_References" >}}{{< /anchor >}}Additional References
 --------------------------------------------------------------------------
